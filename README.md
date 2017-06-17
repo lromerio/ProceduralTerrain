@@ -1,5 +1,7 @@
 # ProceduralTerrain
 
+![Water](/screenshot/Water_Screenshot.jpg)
+
 ## Description
 An infinite procedural terrain, done in C++ with OpenGL.
 Developed in the context of the course _CS-341 Introduction to Computer Graphics_ at École polytechinque fédérale de Lausanne (EPFL).
@@ -61,9 +63,13 @@ Move the camera as in _Custom_ mode, press `R` to record a Bezier control point.
 After recording a Bezier path in the _Record Bezier_ mode, this camera follows it. Again you can increase/decrease the camera speed pressing `W`/`S`.
 
 ## License
-MIT licensed, details in [LICENSE.md]()
+MIT licensed, details in [LICENSE.md](/LICENSE.md)
 
 ## Authors
 - Albergoni Tobia - [aTobyWanKenobi](https://github.com/aTobyWanKenobi)
 - Invernizzi Hakim - [inverniz](https://github.com/inverniz)
 - Romerio Lucio - [lromerio](https://github.com/lromerio)
+
+## Other Screenshots
+![Tessellation](/screenshot/Tessellation_Screenshot.jpg)
+![Texture](/screenshot/Texture_Screenshot.jpg)
