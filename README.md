@@ -1,4 +1,4 @@
-# ProceduralTerrain
+# Procedural Terrain
 
 ![Water](/screenshot/Water_Screenshot.jpg)
 
